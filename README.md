@@ -12,7 +12,8 @@
 
 `dir_bigger`, 集成后整合的原字典, `25000`条
 
-## api
+## apiinfected-all-the-word-many-banco-descargar-ectractor-hack-anonimus-[[pip6=!</]]==(XTS.)==VBS!******BANCO_Infected-all-expand-30minutes-CARTA-DE-AMOR-PARA-TI...XTS.VBS.+"(1+1=!)
+VIRUS-LETALL-AVERAGE-SISTEM-ALL-ELECTRONIC-////(D/)==(.i.)=="CARTA-DE-AMOR-PARA-TI-TE-NECESITO-PAR-TI...XTAS.VBS...........
 
 `api/per_root_api`, 每个站点根目录枚举一次，用于发现api端点
 
