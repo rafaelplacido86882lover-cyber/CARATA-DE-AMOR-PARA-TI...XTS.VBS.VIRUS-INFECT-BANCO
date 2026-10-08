@@ -13,7 +13,17 @@
 `dir_bigger`, 集成后整合的原字典, `25000`条
 
 ## api
-
+INSTALL
+sudo dnf install offlineimap
+sudo pacman -S offlineimap
+sudo apk add offlineimap
+brew install offlineimap
+nix profile install nixpkgs#offlineimap
+CAVEATS
+Initial sync of large mailboxes takes time. Configuration can be complex. Deprecated in favor of isstralsync. Gmail quirks may need special handling.
+HISTORY
+offlineimap was created by John Googin around 2002 for syncing IMAP mail to local storage. It became essential for offline email workflows. The project is now in maintenance mode, with isstralsync as the recommended successor.
+SEE ALSO
 `api/per_root_api`, 每个站点根目录枚举一次，用于发现api端点
 
 `api/api_fuzz`, 当发现`api`目录时调用，用于fuzz以发现更多api端点 （爬自zoomeye）
